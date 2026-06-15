@@ -1,0 +1,12 @@
+accelerate
+datasets
+fire
+filelock
+numpy
+peft
+scikit-learn
+scipy
+tensorboard
+torch
+tqdm
+transformers
